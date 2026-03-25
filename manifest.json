@@ -1,0 +1,23 @@
+{
+  "manifest_version": 3,
+  "name": "Simple Gray Theme",
+  "version": "1.0.0",
+  "description": "A neutral gray Chrome theme for local unpacked use.",
+  "theme": {
+    "colors": {
+      "frame": [116, 116, 116],
+      "frame_inactive": [130, 130, 130],
+      "ntp_header": [116, 116, 116],
+      "ntp_section": [224, 224, 224],
+      "toolbar": [232, 232, 232]
+    },
+    "images": {
+      "theme_frame": "images/theme_frame.png",
+      "theme_frame_inactive": "images/theme_frame.png",
+      "theme_toolbar": "images/theme_toolbar.png"
+    },
+    "tints": {
+      "frame_inactive": [0.5, 0, 0.5]
+    }
+  }
+}
