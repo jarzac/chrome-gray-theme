@@ -1,4 +1,4 @@
-# Simple Gray Theme
+# Very Simple Gray Theme for Chrome
 
 This project contains the editable source files for a local unpacked Chrome theme.
 
